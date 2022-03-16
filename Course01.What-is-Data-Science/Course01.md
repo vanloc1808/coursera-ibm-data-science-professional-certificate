@@ -1,1 +1,1 @@
-# Coursera-IBM-Data-Science-Professional-Certificate
+There is no code in this course.
