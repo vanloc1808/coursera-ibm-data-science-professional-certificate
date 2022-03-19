@@ -1,0 +1,8 @@
+{
+  "apikey": "3TSF_fpZQ7tMHfoDN_Ls-Uhds6Md3XPTB8dp3UevzBba",
+  "iam_apikey_description": "Auto-generated for key crn:v1:bluemix:public:speech-to-text:jp-tok:a/fd42f699e41e43b1bd307488ed84892f:fe4e2d7b-8b7f-4031-8d3a-15a6f2b36068:resource-key:ff408cc3-4739-4ac2-9d37-31450519f1cb",
+  "iam_apikey_name": "Auto-generated service credentials",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/fd42f699e41e43b1bd307488ed84892f::serviceid:ServiceId-15041650-89c1-43c8-ab13-24c461daf16c",
+  "url": "https://api.jp-tok.speech-to-text.watson.cloud.ibm.com/instances/fe4e2d7b-8b7f-4031-8d3a-15a6f2b36068"
+}
