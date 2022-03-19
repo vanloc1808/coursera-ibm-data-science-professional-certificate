@@ -1,0 +1,2 @@
+API key:    -3iPL81GygovXAyyLaEyNIz1h0Sfq5WKFSuMLloRf7Uk
+URL:        https://api.jp-tok.language-translator.watson.cloud.ibm.com/instances/b8b1a897-7fa0-4d0d-81db-ced2119d0531
