@@ -1,0 +1,12 @@
+--#SET TERMINATOR @
+CREATE OR REPLACE PROCEDURE UPDATE_LEADERS_SCORE(
+	in_School_ID INTEGER,
+	in_Leader_Score INTEGER
+)
+AS 
+BEGIN 
+	UPDATE CHICAGO_PUBLIC_SCHOOLS 
+	SET Leaders_Score = in_Leader_Score
+	WHERE School_ID = in_School_ID
+END
+@
